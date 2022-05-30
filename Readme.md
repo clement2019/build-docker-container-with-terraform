@@ -1,6 +1,6 @@
 ## build-docker-container-with-terraform
 
-# This project deals with the process of building an nginx docker conatiner image using terraform infrstructre as code tool
+### This project deals with the process of building an nginx docker conatiner image using terraform infrstructre as code tool
 i created the the provider.tf file as shown using docker as the provider
 
 terraform {
